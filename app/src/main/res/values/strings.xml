@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="sign_in_text">Sign in to GitHub</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="repo_text_tv">Repositories</string>
+    <string name="blank_et">Fill the field</string>
+    <string name="dialog_wrong_login">Неправильно введен логин</string>
+</resources>
